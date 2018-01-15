@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/local/sda/gapp_project/ForAppinstallProject/mvpanddagger2demo/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/local/sda/gapp_project/ForAppinstallProject/mvpanddagger2demo/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/local/sda/gapp_project/ForAppinstallProject/mvpanddagger2demo/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher_round.png",
+        "source": "/local/sda/gapp_project/ForAppinstallProject/mvpanddagger2demo/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    }
+]

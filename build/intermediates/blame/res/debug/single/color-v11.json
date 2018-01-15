@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/local/sda/gapp_project/ForAppinstallProject/mvpanddagger2demo/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/user/.android/build-cache/073a1c361149c7ef77b96830a7492f1dc48e72e4/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/local/sda/gapp_project/ForAppinstallProject/mvpanddagger2demo/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/user/.android/build-cache/073a1c361149c7ef77b96830a7492f1dc48e72e4/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

@@ -1,0 +1,7 @@
+#Mon Jan 15 15:09:03 CST 2018
+base.0=/local/sda/gapp_project/ForAppinstallProject/mvpanddagger2demo/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_973322c1796f4937b3b1c0083309fb6e901a9485
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/local/sda/gapp_project/ForAppinstallProject/mvpanddagger2demo/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_01cd9343f697b76b2c7b0786d6918850769453f0/classes.dex
+base.1=/local/sda/gapp_project/ForAppinstallProject/mvpanddagger2demo/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_01cd9343f697b76b2c7b0786d6918850769453f0
+file.0=/local/sda/gapp_project/ForAppinstallProject/mvpanddagger2demo/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_973322c1796f4937b3b1c0083309fb6e901a9485/classes.dex

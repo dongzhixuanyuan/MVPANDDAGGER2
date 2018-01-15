@@ -1,0 +1,89 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /local/sda/gapp_project/ForAppinstallProject/mvpanddagger2demo/src/main/AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from /local/sda/gapp_project/ForAppinstallProject/mvpanddagger2demo/src/main/AndroidManifest.xml:3:5-44
+		INJECTED from /local/sda/gapp_project/ForAppinstallProject/mvpanddagger2demo/src/main/AndroidManifest.xml
+		INJECTED from /local/sda/gapp_project/ForAppinstallProject/mvpanddagger2demo/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /local/sda/gapp_project/ForAppinstallProject/mvpanddagger2demo/src/main/AndroidManifest.xml
+		INJECTED from /local/sda/gapp_project/ForAppinstallProject/mvpanddagger2demo/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /local/sda/gapp_project/ForAppinstallProject/mvpanddagger2demo/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /local/sda/gapp_project/ForAppinstallProject/mvpanddagger2demo/src/main/AndroidManifest.xml
+		INJECTED from /local/sda/gapp_project/ForAppinstallProject/mvpanddagger2demo/src/main/AndroidManifest.xml
+application
+ADDED from /local/sda/gapp_project/ForAppinstallProject/mvpanddagger2demo/src/main/AndroidManifest.xml:5:5-20:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/user/.android/build-cache/073a1c361149c7ef77b96830a7492f1dc48e72e4/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/user/.android/build-cache/9b87ca0ea377cd2dcb6f9793535651ffbde0c267/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/user/.android/build-cache/c01db7b237d100ceb6a67a435d353168abaf829b/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/user/.android/build-cache/4cade1fe816bad23a879c20f88e910736c9ec9bf/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/user/.android/build-cache/1c82c0a05307eeb9da7cf497756957177f30803c/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/user/.android/build-cache/fb90f4c1845bf67822a9b39c19721b07501f948e/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/user/.android/build-cache/9a065c25dd385ae399db578b3337cffae51754b4/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/user/.android/build-cache/976d19778473491c0fc30ab4dc289e8efee49c30/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/user/.android/build-cache/e90afe733b2831fa0fe5043b945818b5cebced1e/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/user/.android/build-cache/98fd5c5c4beafe74256bec742f44b5b5d8bee2d0/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /local/sda/gapp_project/ForAppinstallProject/mvpanddagger2demo/src/main/AndroidManifest.xml:9:9-41
+	android:supportsRtl
+		ADDED from /local/sda/gapp_project/ForAppinstallProject/mvpanddagger2demo/src/main/AndroidManifest.xml:11:9-35
+	android:roundIcon
+		ADDED from /local/sda/gapp_project/ForAppinstallProject/mvpanddagger2demo/src/main/AndroidManifest.xml:10:9-54
+	android:allowBackup
+		ADDED from /local/sda/gapp_project/ForAppinstallProject/mvpanddagger2demo/src/main/AndroidManifest.xml:7:9-35
+	android:icon
+		ADDED from /local/sda/gapp_project/ForAppinstallProject/mvpanddagger2demo/src/main/AndroidManifest.xml:8:9-43
+	android:theme
+		ADDED from /local/sda/gapp_project/ForAppinstallProject/mvpanddagger2demo/src/main/AndroidManifest.xml:12:9-40
+	android:name
+		ADDED from /local/sda/gapp_project/ForAppinstallProject/mvpanddagger2demo/src/main/AndroidManifest.xml:6:9-45
+activity#com.example.mvpanddagger2demo.view.MainActivity
+ADDED from /local/sda/gapp_project/ForAppinstallProject/mvpanddagger2demo/src/main/AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from /local/sda/gapp_project/ForAppinstallProject/mvpanddagger2demo/src/main/AndroidManifest.xml:13:19-52
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /local/sda/gapp_project/ForAppinstallProject/mvpanddagger2demo/src/main/AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from /local/sda/gapp_project/ForAppinstallProject/mvpanddagger2demo/src/main/AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from /local/sda/gapp_project/ForAppinstallProject/mvpanddagger2demo/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /local/sda/gapp_project/ForAppinstallProject/mvpanddagger2demo/src/main/AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from /local/sda/gapp_project/ForAppinstallProject/mvpanddagger2demo/src/main/AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from /local/sda/gapp_project/ForAppinstallProject/mvpanddagger2demo/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/user/.android/build-cache/073a1c361149c7ef77b96830a7492f1dc48e72e4/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] /home/user/.android/build-cache/9b87ca0ea377cd2dcb6f9793535651ffbde0c267/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /home/user/.android/build-cache/c01db7b237d100ceb6a67a435d353168abaf829b/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/user/.android/build-cache/4cade1fe816bad23a879c20f88e910736c9ec9bf/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/user/.android/build-cache/1c82c0a05307eeb9da7cf497756957177f30803c/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/user/.android/build-cache/fb90f4c1845bf67822a9b39c19721b07501f948e/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/user/.android/build-cache/9a065c25dd385ae399db578b3337cffae51754b4/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/user/.android/build-cache/976d19778473491c0fc30ab4dc289e8efee49c30/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] /home/user/.android/build-cache/e90afe733b2831fa0fe5043b945818b5cebced1e/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/user/.android/build-cache/98fd5c5c4beafe74256bec742f44b5b5d8bee2d0/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/user/.android/build-cache/073a1c361149c7ef77b96830a7492f1dc48e72e4/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /local/sda/gapp_project/ForAppinstallProject/mvpanddagger2demo/src/main/AndroidManifest.xml
+		INJECTED from /local/sda/gapp_project/ForAppinstallProject/mvpanddagger2demo/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /local/sda/gapp_project/ForAppinstallProject/mvpanddagger2demo/src/main/AndroidManifest.xml
+		INJECTED from /local/sda/gapp_project/ForAppinstallProject/mvpanddagger2demo/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] /home/user/.android/build-cache/073a1c361149c7ef77b96830a7492f1dc48e72e4/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/user/.android/build-cache/9b87ca0ea377cd2dcb6f9793535651ffbde0c267/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/user/.android/build-cache/c01db7b237d100ceb6a67a435d353168abaf829b/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/user/.android/build-cache/4cade1fe816bad23a879c20f88e910736c9ec9bf/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/user/.android/build-cache/1c82c0a05307eeb9da7cf497756957177f30803c/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/user/.android/build-cache/fb90f4c1845bf67822a9b39c19721b07501f948e/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/user/.android/build-cache/9a065c25dd385ae399db578b3337cffae51754b4/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/user/.android/build-cache/976d19778473491c0fc30ab4dc289e8efee49c30/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/user/.android/build-cache/e90afe733b2831fa0fe5043b945818b5cebced1e/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/user/.android/build-cache/073a1c361149c7ef77b96830a7492f1dc48e72e4/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/user/.android/build-cache/073a1c361149c7ef77b96830a7492f1dc48e72e4/output/AndroidManifest.xml:26:9-47

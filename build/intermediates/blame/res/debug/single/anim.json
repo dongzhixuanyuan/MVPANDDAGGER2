@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/local/sda/gapp_project/ForAppinstallProject/mvpanddagger2demo/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/user/.android/build-cache/073a1c361149c7ef77b96830a7492f1dc48e72e4/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/local/sda/gapp_project/ForAppinstallProject/mvpanddagger2demo/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/user/.android/build-cache/073a1c361149c7ef77b96830a7492f1dc48e72e4/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/local/sda/gapp_project/ForAppinstallProject/mvpanddagger2demo/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/user/.android/build-cache/073a1c361149c7ef77b96830a7492f1dc48e72e4/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/local/sda/gapp_project/ForAppinstallProject/mvpanddagger2demo/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/user/.android/build-cache/073a1c361149c7ef77b96830a7492f1dc48e72e4/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/local/sda/gapp_project/ForAppinstallProject/mvpanddagger2demo/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/user/.android/build-cache/073a1c361149c7ef77b96830a7492f1dc48e72e4/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/local/sda/gapp_project/ForAppinstallProject/mvpanddagger2demo/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/user/.android/build-cache/073a1c361149c7ef77b96830a7492f1dc48e72e4/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/local/sda/gapp_project/ForAppinstallProject/mvpanddagger2demo/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/user/.android/build-cache/073a1c361149c7ef77b96830a7492f1dc48e72e4/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/local/sda/gapp_project/ForAppinstallProject/mvpanddagger2demo/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/user/.android/build-cache/073a1c361149c7ef77b96830a7492f1dc48e72e4/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/local/sda/gapp_project/ForAppinstallProject/mvpanddagger2demo/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/user/.android/build-cache/073a1c361149c7ef77b96830a7492f1dc48e72e4/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/local/sda/gapp_project/ForAppinstallProject/mvpanddagger2demo/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/user/.android/build-cache/073a1c361149c7ef77b96830a7492f1dc48e72e4/output/res/anim/abc_slide_out_top.xml"
+    }
+]

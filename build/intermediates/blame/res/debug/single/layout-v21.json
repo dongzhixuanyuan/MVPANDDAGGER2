@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/local/sda/gapp_project/ForAppinstallProject/mvpanddagger2demo/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/user/.android/build-cache/073a1c361149c7ef77b96830a7492f1dc48e72e4/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/local/sda/gapp_project/ForAppinstallProject/mvpanddagger2demo/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/user/.android/build-cache/073a1c361149c7ef77b96830a7492f1dc48e72e4/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/local/sda/gapp_project/ForAppinstallProject/mvpanddagger2demo/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/user/.android/build-cache/073a1c361149c7ef77b96830a7492f1dc48e72e4/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/local/sda/gapp_project/ForAppinstallProject/mvpanddagger2demo/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/user/.android/build-cache/073a1c361149c7ef77b96830a7492f1dc48e72e4/output/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

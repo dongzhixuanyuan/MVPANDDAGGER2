@@ -1,0 +1,4 @@
+#Mon Jan 15 12:07:19 CST 2018
+base.0=/local/sda/gapp_project/ForAppinstallProject/mvpanddagger2demo/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0
+renamed.0=classes.dex
+file.0=/local/sda/gapp_project/ForAppinstallProject/mvpanddagger2demo/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex
